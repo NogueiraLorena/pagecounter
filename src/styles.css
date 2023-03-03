@@ -7,7 +7,8 @@
 body {
   font-family: sans-serif;
   text-align: center;
-  background-color: #5271ff;
+  background: rgb(201,0,160);
+background: linear-gradient(90deg, rgba(201,0,160,1) 0%, rgba(65,99,255,1) 53%, rgba(12,0,255,1) 100%);
   display: flex;
   justify-content: center;
 }
