@@ -5,7 +5,7 @@ import "./styles.css";
 import styled from "styled-components";
 
 const ConteinerBigger = styled.section`
-  border: solid rgb(255, 255, 255) 2px;
+  background-color: rgb(255, 255, 255);
   width: 60vw;
   height: 50vh;
   display: flex;
