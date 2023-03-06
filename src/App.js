@@ -5,15 +5,15 @@ import "./styles.css";
 import styled from "styled-components";
 
 const ConteinerBigger = styled.section`
-  background-color: rgb(255, 255, 255);
+  background-color: #000; 
   width: 60vw;
-  height: 50vh;
+  height: 90vh;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
 
-  margin: 6em;
+  margin-top: 5em;
 `;
 
 const Title = styled.h1`
