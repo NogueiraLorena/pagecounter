@@ -99,7 +99,7 @@ class App extends Component {
   render() {
     return (
       <ConteinerBigger>
-        <Title> {this.state.numero} </Title>
+        <Title style="color: bisque;"> {this.state.numero} </Title>
         <ButtonsConteiner>
           <Buttons onClick={this.add}> Crescer </Buttons>
           <Buttons onClick={this.negative}> Decrescer </Buttons>
@@ -107,7 +107,7 @@ class App extends Component {
           <Buttons onClick={this.limpar}> Limpar </Buttons>
         </ButtonsConteiner>
 
-        <p>
+        <p  style="color: bisque;">
           A aplicação é limitada. Por favor, não aperte o botão de crescer logo
           depois do botão de decrescer. E vice-versa.
         </p>
