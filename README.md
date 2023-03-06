@@ -1,4 +1,6 @@
 # attContador-quaseDefinitivo
-Created with CodeSandbox
+Created with CodeSandbox / Criado com CodeSandbox
 
-<p style="color: pink;">Adcionando algumas coisas para melhorar.</p>
+Eu criei um contador progressivo e regressivo usando javascript. <br/>
+ <br/>
+I created a forward and backward counter using javascript
