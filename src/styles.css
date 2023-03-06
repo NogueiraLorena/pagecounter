@@ -12,3 +12,8 @@ background: linear-gradient(90deg, rgba(201,0,160,1) 0%, rgba(65,99,255,1) 53%, 
   display: flex;
   justify-content: center;
 }
+
+p{
+color: bisque;
+  font-size: 1rem;
+}
