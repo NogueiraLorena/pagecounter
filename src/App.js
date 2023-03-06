@@ -17,7 +17,7 @@ const ConteinerBigger = styled.section`
 `;
 
 const Title = styled.h1`
-  color: #000;
+  color: bisque;
   font-size: 3rem;
 `;
 
@@ -99,7 +99,7 @@ class App extends Component {
   render() {
     return (
       <ConteinerBigger>
-        <Title style="color: bisque;"> {this.state.numero} </Title>
+        <Title> {this.state.numero} </Title>
         <ButtonsConteiner>
           <Buttons onClick={this.add}> Crescer </Buttons>
           <Buttons onClick={this.negative}> Decrescer </Buttons>
@@ -107,7 +107,7 @@ class App extends Component {
           <Buttons onClick={this.limpar}> Limpar </Buttons>
         </ButtonsConteiner>
 
-        <p  style="color: bisque;">
+        <p>
           A aplicação é limitada. Por favor, não aperte o botão de crescer logo
           depois do botão de decrescer. E vice-versa.
         </p>
