@@ -1,4 +1,4 @@
 # attContador-quaseDefinitivo
 Created with CodeSandbox
 
-<p style="color: bisque;">Adcionando algumas coisas para melhorar.<p/>
+<p style="color: pink;">Adcionando algumas coisas para melhorar.</p>
